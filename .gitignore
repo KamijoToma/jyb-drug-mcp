@@ -1,0 +1,16 @@
+# 私密凭据
+.env
+
+# 抓包产物
+*.dump
+flows.jsonl
+*.pcap
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统
+.DS_Store
